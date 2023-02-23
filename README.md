@@ -6,9 +6,10 @@ I am providing you the dockerized environment of the challenges. To facilitate t
 
 In order to attempt solving the challenges as intended, you may refer to the files required, which can be found in the blue box.
 
-[![file][1]][1]
+[![file][1]][1_url]
 
 [1]: https://img.shields.io/badge/-file-blue?style=for-the-badge&logo=
+[1_url]: https://github.com/o54ma-4l5h4r1f/JUSTCTF2023/#
 
 Have Fun ^^ 
 
