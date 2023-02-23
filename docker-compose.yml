@@ -1,0 +1,54 @@
+version: '2.4'
+services:
+  angry:
+    extends:
+      file: configuration.yml
+      service: config
+
+    build: ./Angry/
+    ports:
+      - "9988:5000"
+    scale: 1
+
+  bof:
+    extends:
+      file: configuration.yml
+      service: config
+
+    build: ./BOF/
+    ports:
+      - "9944:5000"
+    scale: 1
+
+
+  underflow:
+    extends:
+      file: configuration.yml
+      service: config
+
+    build: ./Underflow/
+    ports:
+      - "9955:5000"
+    scale: 1
+
+
+  kernel2:
+    extends:
+      file: configuration.yml
+      service: config
+
+    build: ./Kernel2/
+    ports:
+      - "9977:5000"
+    scale: 1
+
+
+  kernel:
+    extends:
+      file: configuration.yml
+      service: config
+
+    build: ./Kernel/
+    ports:
+      - "9966:5000"
+    scale: 1

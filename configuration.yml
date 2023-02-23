@@ -1,0 +1,16 @@
+version: '2.4'
+services:
+  config:
+    read_only: true
+    privileged: false
+    cap_drop:
+      - all
+    cap_add:
+      - chown
+      - setuid
+      - setgid
+      - sys_admin
+      - mknod
+    security_opt:
+      - apparmor=unconfined
+      - seccomp=unconfined
