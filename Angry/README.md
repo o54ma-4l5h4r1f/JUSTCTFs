@@ -8,7 +8,7 @@ What do you want ?
 
 ----------------------------------------
 
-[![angry][1]][https://github.com/o54ma-4l5h4r1f/JUSTCTF2023/blob/main/Angry/angry]
+[![angry][1]][1_url]
 [![angry.c][2]][https://github.com/o54ma-4l5h4r1f/JUSTCTF2023/blob/main/Angry/angry.c]
 [![libc.so.6][3]][3]
 [![ld-linux-x86-64.so.2][4]][4]
@@ -19,3 +19,5 @@ What do you want ?
 [4]: https://img.shields.io/badge/-ld--linux--x86--64.so.2-blue?style=for-the-badge&logo=
 
 gcc -m64 angry.c -no-pie -o angry
+
+[1_url]: https://github.com/o54ma-4l5h4r1f/JUSTCTF2023/blob/main/Angry/angry
