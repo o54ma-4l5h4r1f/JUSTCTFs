@@ -2,7 +2,15 @@
 
 Binary Exploitation Challenges repository for JUST CTF 2023.
 
-To facilitate the testing of your challenges in a quick and easy manner, I am providing you the dockerized environment of the challenges.
+I am providing you the dockerized environment of the challenges. To facilitate the testing in a quick and easy manner.
+
+In order to attempt solving the challenges as intended, you may refer to the files required, which can be found in the blue box.
+
+[![file][1]][1]
+
+[1]: https://img.shields.io/badge/-file-blue?style=for-the-badge&logo=
+
+Have Fun ^^ 
 
 ```bash
 $ git clone https://github.com/o54ma-4l5h4r1f/JUSTCTF2023.git
@@ -18,7 +26,7 @@ note the `-d` flag (Detached mode: Run containers in the background) used, so ma
 $ sudo docker-compose down
 ```
 
-I have included the solutions of the challenges in the `solve.py` file within each directory, so check them out ^^.
+I have included the solutions of the challenges in the `solve.py` file within each directory, so check them out.
 
 ```bash
 $ cd <challenge>
