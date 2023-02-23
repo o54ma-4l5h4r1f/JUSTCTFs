@@ -20,4 +20,4 @@ What do you want ?
 
 gcc -m64 angry.c -no-pie -o angry
 
-[1_url]: https://github.com/o54ma-4l5h4r1f/JUSTCTF2023/blob/main/Angry/angry
+[1_url]: angry
