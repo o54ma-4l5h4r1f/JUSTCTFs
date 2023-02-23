@@ -12,7 +12,7 @@ I made a security update, and added new features, go and check them out ^^
 
 [1]: https://img.shields.io/badge/-kernel2-blue?style=for-the-badge&logo=
 
-[1_url]: kernel
+[1_url]: kernel2
 
 
 <br>
