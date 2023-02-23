@@ -33,5 +33,5 @@ What do you want ?
 ### compiled with :
 
 ```bash
-gcc -m64 angry.c -no-pie -o angry
+$ gcc -m64 angry.c -no-pie -o angry
 ```
