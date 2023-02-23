@@ -6,7 +6,7 @@ In this game, your goal is to defeat the guardian of the treasure and claim the 
 
 
 
-<details style="display=flex;" markdown="1"><summary> [![Hint][1]][1] </summary>
+<details style="display=flex;" markdown="1"><summary> <strong> Hint </strong> </summary>
 
 <div style="border-style: double; padding: 4px">
 
