@@ -1,5 +1,23 @@
 # JUSTCTF2023
 
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Followers][Followers-shield]][Followers-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[forks-shield]: https://img.shields.io/github/forks/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II.svg?style=for-the-badge
+[forks-url]: https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/network/members
+[stars-shield]: https://img.shields.io/github/stars/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II.svg?style=for-the-badge
+[stars-url]: https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/stargazers
+[issues-shield]: https://img.shields.io/github/issues/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II.svg?style=for-the-badge
+[issues-url]: https://github.com/o54ma-4l5h4r1f/From-SQL-injection-to-Shell-II/issues
+[Followers-shield]: https://img.shields.io/github/followers/o54ma-4l5h4r1f?style=for-the-badge
+[Followers-url]:https://github.com/o54ma-4l5h4r1f?tab=followers
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/osama-alsharif-21153716a
+[product-screenshot]: images/screenshot.png
+
 Binary Exploitation Challenges repository for JUST CTF 2023.
 
 I am providing you the dockerized environment of the challenges. To facilitate the testing in a quick and easy manner.
