@@ -18,7 +18,7 @@
 [linkedin-url]: https://www.linkedin.com/in/osama-alsharif-21153716a
 [product-screenshot]: images/screenshot.png
 
-Binary Exploitation Challenges repository for JUST CTF 2023.
+Binary Exploitation Challenges repository for JUST CTFs.
 
 I am providing you the dockerized environment of the challenges. To facilitate the testing in a quick and easy manner.
 
