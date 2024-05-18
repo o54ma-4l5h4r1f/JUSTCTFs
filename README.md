@@ -27,14 +27,14 @@ In order to attempt solving the challenges as intended, you may refer to the fil
 [![file][1]][1_url]
 
 [1]: https://img.shields.io/badge/-file-blue?style=for-the-badge&logo=
-[1_url]: https://github.com/o54ma-4l5h4r1f/JUSTCTF2023/#
+[1_url]: https://github.com/o54ma-4l5h4r1f/JUSTCTFs/#
 
 Have Fun ^^ 
 
 ```bash
-$ git clone https://github.com/o54ma-4l5h4r1f/JUSTCTF2023.git
+$ git clone https://github.com/o54ma-4l5h4r1f/JUSTCTFs.git
 
-$ cd JUSTCTF2023.git
+$ cd JUSTCTFs.git
 
 $ sudo docker-compose up --build -d
 ```
