@@ -37,7 +37,7 @@ $ git clone https://github.com/o54ma-4l5h4r1f/JUSTCTFs.git
 $ cd JUSTCTFs.git
 
 # To run a specific service/challenge from the docker-compose.yml
-$ sudo docker-compose up kernel1 kernel2 kernel3
+$ sudo docker-compose up kernel kernel2 kernel3
 
 $ sudo docker-compose up --build -d
 ```
