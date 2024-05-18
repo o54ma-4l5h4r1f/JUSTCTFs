@@ -1,4 +1,4 @@
-# JUSTCTF2023
+# JUSTCTFs
 
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
